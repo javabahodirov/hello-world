@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(./background.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: azure;
+    font-size: 50px;
+    margin: 300px 0;
+    background: none;
+    transition: 0.5s;
+}
